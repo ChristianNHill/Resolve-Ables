@@ -1,4 +1,4 @@
-# Resolve-Ables: Visualize Phenomena Using Light Painting
+# Resolve-Ables: Visualizing Phenomena Using Light Painting
 
 [<img src="https://user-images.githubusercontent.com/22805894/205178186-c55acbbd-bfd1-48ee-b068-85fda8b193ba.jpg" width="100%">](https://www.youtube.com/watch?v=17tr0bVEeeA)
 https://www.youtube.com/watch?v=17tr0bVEeeA
