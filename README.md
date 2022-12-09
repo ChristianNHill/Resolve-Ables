@@ -15,6 +15,6 @@ https://chrisnhill.com/portfolio/resolve-ables/
 
 🧲 [Visualize Magnetic Fields With a Light Painting Wearable](https://github.com/ChristianNHill/Magnetic-Fields-LPainting)
 
-👂 [Visualize and Hear Ultrasonic Frequencies With a Third Ear](https://github.com/ChristianNHill/AI-Nose-LPainting)
+👂 [Visualize and Hear Ultrasonic Frequencies With a Third Ear](https://github.com/ChristianNHill/Ultrasonic-Frequency-LPainting)
 
 - If you have any questions, want to keep up with my work, or toss around ideas, please do so on my Twitter: @[4Eyes6Senses](https://twitter.com/4Eyes6Senses). Thanks!
