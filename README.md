@@ -1,6 +1,6 @@
 # Resolve-Ables: Visualizing Phenomena Using Light Painting
 
-[<img src="https://user-images.githubusercontent.com/22805894/205178186-c55acbbd-bfd1-48ee-b068-85fda8b193ba.jpg" width="100%">](https://www.youtube.com/watch?v=17tr0bVEeeA)
+[<img src="https://user-images.githubusercontent.com/22805894/207146018-c9242649-fb1b-4ca2-9afe-1e0e776efaf6.png" width="100%">](https://www.youtube.com/watch?v=17tr0bVEeeA)
 https://www.youtube.com/watch?v=17tr0bVEeeA
 
 This repo contains all the photos taken for the Resolve-Ables project.
